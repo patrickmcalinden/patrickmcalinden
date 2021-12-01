@@ -10,4 +10,4 @@
   <img src="https://media-s3-us-east-1.ceros.com/fatherly/images/2021/01/20/71e76813c5d8770e11cd4882450d2aba/04-luckysiderun-nobox.gif" width="350" />
 </p>
 
-![ViewCount]https://views.whatilearened.today/views/github/patrickmcalinden/patrickmcalinden.svg?cache=remove
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=patrickmcalinden.patrickmcalinden)
