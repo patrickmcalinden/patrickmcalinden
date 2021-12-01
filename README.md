@@ -1,15 +1,17 @@
 <p align="center">
  <h2 align="center">Welcome to my Profile</h2>
 </p>
+<div align="center>
+ <a href="https://youtube.com">
+   <img align="left" alt="TomasCostaK Youtube" width="25px" src="https://patrickmcalinden.com/images/youtube.png" />
+ </a>
+ <a href="https://www.linkedin.com/in/tomascostax/">
+   <img align="left" alt="TomasCostaK LinkedIn" width="25px" src="https://patrickmcalinden.com/images/linkedin.png" />
+ </a>
+ </div>
 
-### Hi, I'm Pat)
+Hi, I'm Pat
 
-<a href="https://youtube.com">
-  <img align="left" alt="TomasCostaK Youtube" width="25px" src="https://patrickmcalinden.com/images/youtube.png" />
-</a>
-<a href="https://www.linkedin.com/in/tomascostax/">
-  <img align="left" alt="TomasCostaK LinkedIn" width="25px" src="https://patrickmcalinden.com/images/linkedin.png" />
-</a>
 
 <div>
   
