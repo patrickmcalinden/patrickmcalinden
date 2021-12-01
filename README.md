@@ -10,7 +10,7 @@
  </a>
 </div>
 
-Hi, I'm Pat
+<h2>Hi, I'm Pat</h2>
 
 
 <div>
