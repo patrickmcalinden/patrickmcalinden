@@ -4,14 +4,11 @@
 
 ### Hi, I'm Pat)
 
+<a href="https://youtube.com">
+  <img align="left" alt="TomasCostaK Youtube" width="25px" src="https://patrickmcalinden.com/images/youtube.png" />
+</a>
 <a href="https://www.linkedin.com/in/tomascostax/">
   <img align="left" alt="TomasCostaK LinkedIn" width="25px" src="https://patrickmcalinden.com/images/linkedin.png" />
-</a>
-<a href="https://youtube.com">
-  <img align="left" alt="TomasCostaK Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
-<a href="https://medium.com">
-  <img align="left" alt="TomasCostaK Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>
 </a>
 
 <div>
