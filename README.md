@@ -9,3 +9,4 @@
   <br>
   <img src="https://media-s3-us-east-1.ceros.com/fatherly/images/2021/01/20/71e76813c5d8770e11cd4882450d2aba/04-luckysiderun-nobox.gif" width="350" />
 </p>
+![Akhil's github stats](https://github-readme-stats.vercel.app/api?username=patrickmcalinden&show_icons=true&theme=dark)
