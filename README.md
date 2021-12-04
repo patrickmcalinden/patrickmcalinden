@@ -7,6 +7,6 @@
   <br>
   <br>
   <br>
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1daffa70744351.5bad3c9b776fe.gif" hieght ="250" width="350" />
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1daffa70744351.5bad3c9b776fe.gif" hieght ="250" width="50" />
 </p>
 
