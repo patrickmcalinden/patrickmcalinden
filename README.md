@@ -7,6 +7,6 @@
   <br>
   <br>
   <br>
-  <img src="https://www.behance.net/gallery/70744351/MotoMoji-Porsche-sticker-set-animated-gifs/modules/412567997" width="350" />
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/34479b70744351.5bad3c9b78262.gif7" width="350" />
 </p>
 
