@@ -2,7 +2,7 @@
   <br>
   <br>
   <br>
-  <samp>Hi. I'm <a href="https://www.linkedin.com/in/patrick-mcalinden/" '#00ff00'>Patrick</a>.<br> I'm a reacent grad looking to start a carer in data analytics</samp>
+  <samp>Hi. I'm <a href="https://www.linkedin.com/in/patrick-mcalinden/" '#00ff00'>Patrick</a>.<br> I'm a recent grad looking to start a career as a Data Analyst or a Financial Analyst</samp>
   <br>
   <br>
   <br>
